@@ -1,9 +1,6 @@
 Mise en place d'un système de slug simple
 =========================================
 
-# Content
-- Mise en place du slug sous forme de service
-
 #### Pré-requis: 
 composer ==> [Install Composer](https://getcomposer.org/doc/00-intro.md)
 
